@@ -1,4 +1,4 @@
-# CLAUDE.md — AI 日语学习系统规则
+# codex.md — AI 日语学习系统规则
 
 ## 项目概述
 
